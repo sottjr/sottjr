@@ -1,1 +1,1 @@
-testando o bash no github!!!
+Olá meu nome é Junior, bem vindo ao meu GitHub!
