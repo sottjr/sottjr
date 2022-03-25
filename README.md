@@ -2,7 +2,7 @@
 
 <p align="left">
   Connect with me:
-  <a href="https://www.linkedin.com/in/junior-sott-0882051a9/" target="_blank">
+  <a href="https://www.linkedin.com/in/junior-sott-0882051a9/?locale=en_US" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-juniorsott-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://www.instagram.com/juniorsott/" target="_blank">
