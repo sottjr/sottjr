@@ -37,7 +37,7 @@ I want to develop ideas and make them real, with the possible ability to build u
 const juniorSott = {
   pronouns: "he" | "Him",
   code: [Javascript, Html, Css, Sass],
-  tools: [React, Node, ReacNative],
+  tools: [Bootstrap, React, Node, ReacNative],
   databases: [MySQL, MongoDB],
   inProgress: "I am participating in the #XP 41 Web Development, promoted by Gama Academy.",
   curiosity: "I started working on the Internet in 2020.",
