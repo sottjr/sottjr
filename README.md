@@ -1,4 +1,4 @@
-<h1 align="left"> Sup guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Junior Sott</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=FF0F4A&center=true&vCenter=true&lines=Hi+there!+My+name+is+Junior!;Welcome+to+my+GitHub+profile;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 <p align="left">
   Connect with me:
