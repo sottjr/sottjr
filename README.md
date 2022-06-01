@@ -36,8 +36,8 @@ I want to develop ideas and make them real, with the possible ability to build u
 ```javascript
 const juniorSott = {
   pronouns: "he" | "Him",
-  code: [Javascript, Html, Css, Sass],
-  tools: [Bootstrap, React, Node, ReacNative],
+  code: [Javascript, Html, Css],
+  tools: [Bootstrap, Node, ReacNative],
   databases: [MySQL, MongoDB],
   inProgress: "I am participating in the #XP 41 Web Development, promoted by Gama Academy.",
   curiosity: "I started working on the Internet in 2020.",
@@ -52,10 +52,10 @@ const juniorSott = {
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=1572B6)&nbsp;
 
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+
+
 ![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
 
