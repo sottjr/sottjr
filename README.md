@@ -39,7 +39,7 @@ const juniorSott = {
   code: [Javascript, Html, Css],
   tools: [Bootstrap, Node, ReacNative],
   databases: [MySQL, MongoDB],
-  inProgress: "I am participating in the #XP 41 Web Development, promoted by Gama Academy.",
+  inProgress: "I am woking in Gama Labs and studying in Dev for Tech (FullStack Program).",
   curiosity: "I started working on the Internet in 2020.",
 };
 ```
