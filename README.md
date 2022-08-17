@@ -37,10 +37,10 @@ I want to develop ideas and make them real, with the possible ability to build u
 const juniorSott = {
   pronouns: "he" | "Him",
   code: [Javascript, Html, Css],
-  tools: [Bootstrap, Node, ReacNative],
-  databases: [MySQL, MongoDB],
+  tools: [Bootstrap, Prisma, NestJS, Express, Node, Angular, ReacNative],
+  databases: [MySQL, MongoDB, PostgreSQL],
   inProgress: "I am woking in Gama Labs and studying in Dev for Tech (FullStack Program).",
-  curiosity: "I started working on the Internet in 2020.",
+  curiosity: "I started working on the Internet(remote) in 2020.",
 };
 ```
 
